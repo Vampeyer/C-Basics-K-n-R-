@@ -1,0 +1,21 @@
+notes for printf 
+
+printf is not a part of the C library , but it is defined in 
+ANSI - american national standards institute as a general output function. 
+
+print f , as in the farencelc.c file and executable , can also recognize several other characters to print ,  
+that of which is 
+%d - print as decimal integer 
+$6d  - print as decimal integer , at least 6 characters wide. 
+%.2f print as floating pint , 2 characters fter decimal point.
+%6.2f  - print as floating point at least 6 wide and 2 after the decimal point.  
+
+
+Among others , --- ? - the book says ---
+printf also recognizes 
+
+%o for octal
+%x for hexidecimal 
+%c for the c character
+%s for character string      , and 
+%% for itself         --- whatever that means. 

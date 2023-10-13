@@ -1,0 +1,24 @@
+
+#include 
+
+/*
+Dear -  Me later  - 
+
+ -  - -  remember to  - 
+
+ +>  Make a list for how to run on windows , mac , or linux , and the significance and overview of each. 
+
+ +>  Review installation methods and walkthrough of Cygwin , w64Dev Kit , and installation of the C compiler. 
+
+ +> Make sure to cover MinWg and its use cases ,  
+
+ -------- Important Programming Techniques - Containerization in the operational system level.  
+
+ +> Definintly want to at least explain the HURD and its operationally systematic , significance and importance. 
+
+
+
+
+
+
+*/
